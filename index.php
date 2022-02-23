@@ -29,7 +29,7 @@ $sql="INSERT INTO `vscode` (`id`, `name`, `phone`, `age`)
   </head>
   <body>
   <div class="container">
-  <form action="/nilam/bhp/index.php" method="POST">
+  <form action="/nilam/bhp/index.php/" method="POST">
     <div class="container">
   <div class="mb-3">
     <label for="cng" class="form-label">id</label>
